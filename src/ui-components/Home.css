@@ -1,0 +1,64 @@
+.homepage {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #fcfbf9, #fdf1ae);
+    color: #333;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+/*  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 1px;
+    max-width: 80%;
+    height: auto;
+    width: 200px;
+  } */
+
+  .logo-container {
+    text-align: center;
+    padding: 20px 0; /* Adjust padding as needed */
+  }
+  
+  .logo-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Centers the image horizontally */
+  }
+  
+
+
+
+
+
+
+  #trophee {
+    max-width: 145%;
+    height: auto;
+  }
+  
+ #corporate{
+    width:700px;
+    height: auto;
+ }
+ #pumps{
+    width:1000px;
+ }
+#hrline {
+    border: 1px solid #fa0303; /* Border color and style */
+    margin: 20px 0; /* Adjust margin as needed */
+  }
+  .footer{
+    background-color: #fa0303;
+    color:white;
+  }
